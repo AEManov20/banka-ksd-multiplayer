@@ -12,12 +12,10 @@
   "license": "closed-source",
   "dependencies": {
     "@types/uuid": "^8.3.4",
+    "@types/ws": "^8.5.3",
     "axios": "^0.27.2",
     "ts-node": "^10.7.0",
     "uuid": "^8.3.2",
     "ws": "^8.6.0"
-  },
-  "devDependencies": {
-    "@types/ws": "^8.5.3"
   }
 }
